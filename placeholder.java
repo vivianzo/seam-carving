@@ -5,6 +5,6 @@ class placeHolder{
 
   void howToAccess() {
     System.out.println("as per Northeastern class policy, I am not allowed to publicly release " +
-          "the code, please contact me to see the original");
+          "the code, please contact me for the original source code");
   }
 }
